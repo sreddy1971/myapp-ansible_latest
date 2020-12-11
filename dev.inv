@@ -1,2 +1,2 @@
 [webservers]
-3.93.231.177 ansible_user=ec2-user
+ec2-3-93-231-177.compute-1.amazonaws.com ansible_user=ec2-user
